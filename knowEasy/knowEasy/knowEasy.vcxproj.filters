@@ -87,5 +87,8 @@
     <ClCompile Include="arrayexample3.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="arrayexample4.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
