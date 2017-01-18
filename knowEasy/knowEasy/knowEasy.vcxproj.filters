@@ -78,5 +78,14 @@
     <ClCompile Include="funcexample1.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="arrayexample.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayexample2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="arrayexample3.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
