@@ -4,7 +4,7 @@
 int main()
 {
 	char word[100] = "It is useful Where a statement Is needed sYntactically, but no action is reQUired";
-	char *p;
+	char* p;
 	int i = 0; 
 	int j = 0;
 	p = &word;
