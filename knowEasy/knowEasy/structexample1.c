@@ -1,3 +1,5 @@
+//using struct pointer 
+
 #include <stdio.h>
 #include <string.h>
 
