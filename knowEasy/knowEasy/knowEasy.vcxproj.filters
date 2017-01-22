@@ -114,5 +114,8 @@
     <ClCompile Include="structexample2.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="mystrlen.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
