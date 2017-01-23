@@ -10,7 +10,7 @@ int main()
 	int lenght;
 	p = &name;
 
-	scanf("%s", name);
+	scanf("%s", &name);
 
 	lenght = myStrlen(p);
 
