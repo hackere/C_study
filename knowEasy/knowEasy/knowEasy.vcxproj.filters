@@ -120,5 +120,8 @@
     <ClCompile Include="myfindchar.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="changechar.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
