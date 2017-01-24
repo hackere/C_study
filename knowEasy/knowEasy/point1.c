@@ -22,7 +22,7 @@ int main()
 		
 		temp = p[i];  // this - > siht 
 		p[i] = p[j - i];
-		c[j - i] = temp;
+		p[j - i] = temp;
 	}
 	printf("%s", c);
 

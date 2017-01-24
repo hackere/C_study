@@ -22,6 +22,7 @@ void sort(int r)
 			printf("number is negative");
 		else
 			printf("number is pasitive");
-		}
+	}
 	else
 		printf("number is zero");
+}

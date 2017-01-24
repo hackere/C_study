@@ -126,5 +126,8 @@
     <ClCompile Include="deleteChar.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="reverse.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
